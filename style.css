@@ -32,7 +32,7 @@ h1 {color: rgb(93, 93, 125);
 }
 
 p {
-    color: rgba(93, 93, 125, 0.60);
+    color: rgba(93, 93, 125, .60);
     font-size: 28px;
     line-height: 48px;
     margin: 15px 0;
@@ -40,7 +40,7 @@ p {
 }
 
 button {
-    background-color: rgba(148, 153, 234, 1);
+    background-color: rgb(148, 153, 234);
     border: none;
     border-radius: 30px;
     color: rgb(255, 255, 255);
@@ -64,7 +64,7 @@ div.navegacao {
 }
 
 a {
-    color: rgba(93, 93, 125, 1);
+    color: rgb(93, 93, 125);
     cursor: pointer;
     font-size: 1.3rem;
     margin: 1rem 1rem 0;
@@ -73,7 +73,7 @@ a {
 }
 
 a:hover {
-    color: rgba(93, 93, 125, 0.4);
+    color: rgba(93, 93, 125, .4);
 }
 
 div.imagem {
@@ -136,4 +136,4 @@ img {
         margin: 2rem auto;
         width: 70%;
     }
-}
+}    
